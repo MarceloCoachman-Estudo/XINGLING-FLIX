@@ -1,2 +1,2 @@
 # XINGLING-FLIX
-Clone NETFLIX com flimes tabajara.
+Clone NETFLIX com filmes tabajara.
